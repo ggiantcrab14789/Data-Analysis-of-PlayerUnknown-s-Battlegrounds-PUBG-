@@ -1,4 +1,4 @@
-# Data-Analysis-of-PlayerUnknown-s-Battlegrounds-PUBG-
+# Data Analysis of PlayerUnknown’s Battlegrounds (PUBG)#
 PUBG is a complex and competitive game, with global tournaments for cash prizes driving a lot of players to take part. Notably, in June 2018, it was estimated that 400 million players around the globe play the battle royale-style game.
 
 Because each game starts with 100 players, and the last person surviving is deemed the winner, the chance of winning is slim. Definitely, those chances increase as one plays the game and becomes more proficient and experienced. Better accuracy, better reaction times and more can contribute to a winning combination for players.
