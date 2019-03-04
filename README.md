@@ -5,6 +5,9 @@ Because each game starts with 100 players, and the last person surviving is deem
 
 As such, the problem many players face is that their chance of winning is very low, especially if they’re a new player. It’s understandable that every day thousands of searches online for winning tactics and tips for the game are conducted. So we set out to gather data that correlates with winning players to understand what certain actions in the game could lead to more kills and a longer lifespan in the game, which could result in the player winning the game.
 
+PUBG 2 groups.R
+-> Regression models & prediction of PUBG in R
+
 The first dataset I used is from Kaggle: PUBG Finish Placement Prediction
 https://www.kaggle.com/c/pubg-finish-placement-prediction/data
 
