@@ -8,11 +8,12 @@ As such, the problem many players face is that their chance of winning is very l
 PUBG 2 groups.R
 -> Regression models & prediction of PUBG in R
 
+To see the Exploratory Data Analysis and data visualization, please check:
+https://medium.com/@aliciali_7397
+
 The first dataset I used is from Kaggle: PUBG Finish Placement Prediction
 https://www.kaggle.com/c/pubg-finish-placement-prediction/data
 
 Second dataset is also from Kaggle: PUBG Match Deaths and Statistics
 https://www.kaggle.com/skihikingkevin/pubg-match-deaths
 
-To see the Exploratory Data Analysis and data visualization, please check:
-https://medium.com/@aliciali_7397
